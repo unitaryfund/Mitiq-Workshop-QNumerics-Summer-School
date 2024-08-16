@@ -1,0 +1,2 @@
+ipykernel
+mitiq[qiskit,pennylane]
