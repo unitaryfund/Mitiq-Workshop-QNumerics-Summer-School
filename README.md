@@ -1,6 +1,6 @@
 # Mitiq Workshop at QNumerics
 
-This repository contains notebooks and information pertaining to the Mitiq workshop which was held as part of the **Numerical Methods in Quantum Information Science** summer school.
+This repository contains notebooks and information pertaining to the Mitiq workshop which was held as part of the [**Numerical Methods in Quantum Information Science**](https://qnumerics.org/) summer school.
 
 **Where**: UMass Amherst Mount Ida campus
 
